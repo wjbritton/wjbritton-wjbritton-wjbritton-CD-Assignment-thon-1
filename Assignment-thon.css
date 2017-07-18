@@ -1,0 +1,14 @@
+h1, h2, p, div{
+    text-align:center;
+    font-family:impact;
+    
+}
+
+body {
+    background-color:lightblue;
+}
+button {
+    width:100px;
+    height:40px;
+    text-align:center;
+}
